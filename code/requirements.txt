@@ -1,0 +1,12 @@
+# Core data science stack (classical models, EDA, submission pipeline)
+pandas>=1.5
+numpy>=1.23
+scipy>=1.9
+scikit-learn>=1.2
+matplotlib>=3.6
+openpyxl>=3.0
+
+# Transformer sections (Google Colab only - requires GPU + internet access
+# to huggingface.co, both unavailable in a plain local/offline environment)
+torch>=2.0
+transformers>=4.30

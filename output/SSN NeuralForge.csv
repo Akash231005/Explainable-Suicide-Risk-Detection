@@ -1,0 +1,503 @@
+row_id,risk_level,evidence,factors
+P00015,Ideation,I'm gonna kill myself,['mental health issues']
+P00016,Indicator,,"['emotion dysregulation', 'hopelessness', 'poor social support']"
+P00017,Indicator,,['poor social support']
+P00018,Behavior,I cut myself,"['sense of responsibility', 'suicide means (with access)']"
+P00019,Ideation,Desperate to kill myself before I lose my marbles,['emotion dysregulation']
+P00020,Ideation,im gonna kill myself,['emotion dysregulation']
+P00021,Behavior,"What are your suicide stories; What are your suicide stories, how close have you come to the final end?",[]
+P00022,Behavior,,['suicide means (with access)']
+P00023,Ideation,IMA GONNA KILL MYSELF HAD A BAD DAY GONNA KILL MY SELF,[]
+P00024,Indicator,,"['emotion dysregulation', 'hopelessness', 'suicide means (with access)']"
+P00025,Ideation,,['suicide means (with access)']
+P00026,Ideation,Did they die?; What does it eman,['poor social support']
+P00027,Behavior,"Im gonna kill myself; pushed them off a cliff; Im gonna kill myself because I think I killed someone on here , pushed them off a cliff !",['suicide means (with access)']
+P00028,Ideation,How often does trolling the suicide section result in a suicide?,[]
+P00029,Indicator,,[]
+P00030,Indicator,,['suicide means (with access)']
+P00031,Indicator,,[]
+P00032,Ideation,Best way to answer a suicide question without killing the QA?,['suicide means (with access)']
+P00087,Indicator,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support']"
+P00088,Behavior,,['suicide means (with access)']
+P00089,Ideation,i want to die right now; i want to die right now but i just can’t,['sense of responsibility']
+P00090,Indicator,,['suicide means (with access)']
+P00091,Indicator,,[]
+P00092,Behavior,celebrating my 17th birthday today this weekend with everybody then i’m planning my suicide.,[]
+P00093,Behavior,i just want ecstasy; that i can overdose off of i just wanna get,"['emotion dysregulation', 'suicide means (with access)']"
+P00165,Behavior,"im planning to kill myself on Friday; do I dm/send them a message right before im about to do it; Question So im planning to kill myself on Friday, I have a few people to tell a few things, so my question is, do I leave them a note next to my body or do I dm/send them a message right before im about to do it?","['emotion dysregulation', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P00166,Behavior,"im planning to kill myself on Friday; do I dm/send them a message right before im about to do it; Question So im planning to kill myself on Friday, I have a few people to tell a few things, so my question is, do I leave them a note next to my body or do I dm/send them a message right before im about to do it?","['emotion dysregulation', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P00167,Behavior,"Question Planning to kill myself on Friday; do I dm them right before I do it; Question Planning to kill myself on Friday, I have a few people to tell a few things, so my question is, do I leave them a note next to my body or do I dm them right before I do it?","['sense of responsibility', 'suicide means (with access)']"
+P00168,Indicator,,"['interpersonal difficulty', 'poor social support', 'social support']"
+P00169,Indicator,,['emotion dysregulation']
+P00170,Behavior,I might aswell get another date Maybe this time I'll be brave enough to fucking end it,"['emotion dysregulation', 'suicide means (with access)']"
+P00171,Behavior,satisfying to cut myself; Why is it so satisfying to cut myself?,"['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P00172,Indicator,,"['emotion dysregulation', 'hopelessness']"
+P00173,Ideation,ima fucking kill myself; I only know I wanna die.; Im gonna do it eventualy Im gonna set another date and ima fucking kill myself.,"['emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P00174,Indicator,,"['hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'poor social support', 'sense of responsibility', 'social support']"
+P00175,Indicator,,['poor social support']
+P00176,Ideation,Please just let me die.; Im dead as ever Socially dead; Im dead as ever Socially dead and mentally dead.,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P00193,Ideation,,"['coping strategy', 'emotion dysregulation', 'prior self-harm or suicidal thought/attempt']"
+P00194,Indicator,,[]
+P00195,Ideation,How to die without hurting people i’m sick to my stomach thinking how i would destroy everyone around me if i commit suicide.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P00196,Behavior,While I am not currently planning on acting out on my suicidal thoughts I want to start writing a new detailed note; While I am not currently planning on acting out on my suicidal thoughts I want to start writing a new detailed note and will.,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'stressful life event']"
+P00197,Ideation,die over the most minor inconveniences; suicidal over the smallest shit does anyone else want to crawl into a hole and die over the most minor inconveniences.,"['emotion dysregulation', 'low self-esteem']"
+P00198,Indicator,,"['psychological capital', 'social support']"
+P00199,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility']"
+P00200,Ideation,i feel like i’m just hardwired to want to die,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'physical health/characteristic', 'poor social support', 'sense of responsibility']"
+P00201,Indicator,,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'sense of responsibility', 'social support', 'stressful life event']"
+P00234,Attempt,as soon as I find where the pills are I’ll attempt again.,"['emotion dysregulation', 'hopelessness', 'suicide means (with access)']"
+P00235,Behavior,"if I took 48 would that be guaranteed to kill me; If paracetamol has a lethal dosage of 20-30 (10-15g), if I took 48 would that be guaranteed to kill me or would there be a chance I’d survive?",['suicide means (with access)']
+P00236,Indicator,,"['coping strategy', 'poor social support']"
+P00237,Behavior,Soon 48 paracetamols...,['suicide means (with access)']
+P00238,Indicator,,['sense of responsibility']
+P00239,Indicator,,"['coping strategy', 'poor social support']"
+P00240,Indicator,,[]
+P00241,Indicator,,[]
+P00242,Indicator,,['hopelessness']
+P00243,Behavior,,"['hopelessness', 'suicide means (with access)']"
+P00244,Indicator,,[]
+P00266,Ideation,,"['hopelessness', 'suicide means (with access)']"
+P00267,Indicator,,[]
+P00268,Indicator,,[]
+P00269,Behavior,I will fucking kill myself; Don't know if i will buy a black powder gun or drugs.; I will kill myself this year I don't know the exact date yet,"['emotion dysregulation', 'suicide means (with access)']"
+P00270,Behavior,thinking what bridge I can jump off Wish i could do something more; Today im spending time looking at guns i can buy without a license or thinking what bridge I can jump off Wish i could do something more.,"['emotion dysregulation', 'suicide means (with access)']"
+P00271,Behavior,I will kill myself this year  I don't know the exact date yet,[]
+P00272,Behavior,,['suicide means (with access)']
+P00320,Indicator,,[]
+P00321,Ideation,,['poor social support']
+P00322,Indicator,,[]
+P00323,Indicator,,[]
+P00324,Behavior,I’m going to hang myself Please someone help me please please I can’t do this anymore please,"['coping strategy', 'suicide means (with access)']"
+P00325,Ideation,I want to die; I want to die !; I say I’m going to kill myself,"['dysfunctional family', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'poor social support', 'sense of responsibility', 'social support']"
+P00326,Indicator,,[]
+P00440,Behavior,i have decided on a date i'm just preparing now.,[]
+P00441,Behavior,,['suicide means (with access)']
+P00442,Ideation,should i do it now; should i wait until i die; i am going to end my misery; should i do it now while i'm still alive or should i wait until i die and write it in a will?,"['emotion dysregulation', 'hopelessness', 'sense of responsibility', 'suicide means (with access)']"
+P00443,Attempt,i die; i will attempt in 5 days i hope it works; i will attempt in 5 days i hope it works and i die,['suicide means (with access)']
+P00444,Behavior,going to attempt tonight why not?,['hopelessness']
+P00445,Indicator,,[]
+P00446,Ideation,,"['emotion dysregulation', 'interpersonal violence', 'mental health issues', 'sense of responsibility', 'social support']"
+P00447,Indicator,,['poor social support']
+P00448,Indicator,,"['coping strategy', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P00449,Ideation,,['poor social support']
+P00450,Indicator,,[]
+P00451,Attempt,i am suicidal; i should keep it to myself; i've attempted suicide after getting hurt by people; and i've had fleeting thoughts of seeking revenge by killing myself,"['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'sexual orientation related issues', 'social support', 'suicide means (with access)', 'traumatic experience']"
+P00452,Attempt,ive gotten hurt countless times,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P00453,Ideation,i dont want to die; i havent slept in 3 days; i havent tried drowning myself yet; i havent slept in 3 days .; i set a plan to kill myself in a week; i dont want to die but i cant take this feeling anymore.; i set a plan to kill myself in a week so ive been self destructive lately and i feel like i cant stop.,"['cognitive deficits', 'coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'meaning in life', 'mental health issues', 'physical health/characteristic', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P00454,Behavior,goodbye,[]
+P00455,Ideation,,[]
+P00456,Indicator,,['hopelessness']
+P00457,Behavior,"Risking Death on St Andrews Day no; it won’t be the suicidal choice - it will be the life choice - lol 😆; Risking Death on St Andrews Day no, it won’t be the suicidal choice - it will be the life choice - lol 😆",['hopelessness']
+P00458,Indicator,,[]
+P00459,Behavior,The Life/Death tightrope I’m probably gonna wish I had died earlier.,['hopelessness']
+P00460,Ideation,Text here until I die I wish,[]
+P00461,Indicator,,['poor social support']
+P00462,Indicator,,['coping strategy']
+P00463,Indicator,,[]
+P00464,Ideation,,[]
+P00465,Ideation,,[]
+P00466,Ideation,,[]
+P00467,Indicator,,[]
+P00468,Behavior,I am really tempted to kill myself tonight,[]
+P00469,Ideation,Social Services promotes suicide,[]
+P00470,Ideation,,['hopelessness']
+P00471,Behavior,,['suicide means (with access)']
+P00472,Indicator,,[]
+P00473,Indicator,,[]
+P00474,Indicator,,[]
+P00475,Behavior,I should have risked death in the summer to live longer now; I should have risked death in the summer to live longer now :/,['suicide means (with access)']
+P00476,Indicator,,[]
+P00477,Ideation,,['hopelessness']
+P00478,Indicator,,[]
+P00479,Indicator,,[]
+P00480,Indicator,,['poor social support']
+P00481,Ideation,Wish I would die in my sleep this weekend,['suicide means (with access)']
+P00482,Ideation,"In 45 days; I will commit suicide; In 45 days, I will commit suicide",[]
+P00483,Ideation,"In 44 days; I will commit suicide; In 44 days, I will commit suicide",[]
+P00484,Ideation,"In 43 days; I will commit suicide; In 43 days, I will commit suicide",[]
+P00485,Ideation,"In 42 days; I will commit suicide; In 42 days, I will commit suicide",[]
+P00486,Ideation,"In 41 days; I will commit suicide; In 41 days, I will commit suicide",[]
+P00487,Ideation,"I will commit suicide; In 40 days, I will commit suicide",[]
+P00488,Ideation,"In 39 days; I will commit suicide; In 39 days, I will commit suicide",[]
+P00580,Attempt,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event']"
+P00581,Indicator,,[]
+P00582,Ideation,I would do it myself; Suicidal beloved one I want to cheer him up.,"['coping strategy', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility']"
+P00583,Indicator,,['social support']
+P00584,Indicator,,"['emotion dysregulation', 'poor social support', 'social support', 'stressful life event']"
+P00585,Indicator,,"['coping strategy', 'dysfunctional family', 'poor social support', 'psychological capital', 'social support']"
+P00586,Indicator,,['emotion dysregulation']
+P00587,Indicator,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event']"
+P00588,Indicator,,[]
+P00589,Indicator,,['poor social support']
+P00590,Ideation,,"['emotion dysregulation', 'mental health issues', 'social support', 'stressful life event']"
+P00591,Ideation,,"['emotion dysregulation', 'low self-esteem', 'mental health issues', 'social support']"
+P00592,Attempt,,"['prior self-harm or suicidal thought/attempt', 'social support']"
+P00593,Attempt,,"['dysfunctional family', 'prior self-harm or suicidal thought/attempt', 'social support']"
+P00594,Ideation,is dying,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal violence', 'low self-esteem', 'poor social support', 'psychological capital', 'social support', 'stressful life event']"
+P00595,Indicator,,"['emotion dysregulation', 'social support']"
+P00596,Indicator,,"['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'interpersonal violence', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'traumatic experience']"
+P00620,Indicator,,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P00621,Indicator,,[]
+P00622,Ideation,still dying; i plan to; because i know im still going to die when i plan to.,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'poor social support', 'sense of responsibility']"
+P00623,Indicator,,"['emotion dysregulation', 'poor social support']"
+P00624,Indicator,,"['emotion dysregulation', 'low self-esteem', 'poor social support']"
+P00625,Ideation,yet still want to die,['poor social support']
+P00626,Ideation,,"['emotion dysregulation', 'hopelessness', 'poor social support']"
+P00627,Ideation,badly to leave; so incredibly dumb i want so badly to leave.,"['low self-esteem', 'poor social support', 'sense of responsibility']"
+P00628,Indicator,,"['emotion dysregulation', 'hopelessness', 'poor social support']"
+P00629,Ideation,anyone near atlanta GA wanna commit suicide together?,[]
+P00630,Indicator,,"['emotion dysregulation', 'hopelessness']"
+P00631,Behavior,,"['emotion dysregulation', 'sense of responsibility', 'suicide means (with access)']"
+P00632,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'poor social support', 'sense of responsibility']"
+P00685,Ideation,"I want to die; I want to die so bad I'm a failure, another week is ruined.","['emotion dysregulation', 'low self-esteem', 'suicide means (with access)']"
+P00686,Behavior,"All i want a peaceful death.; I will kill myself this week Maybe tomorrow; I will kill myself this week Maybe tomorrow, maybe the other day, it depends.",[]
+P00687,Ideation,bad omg; i just want to die,"['emotion dysregulation', 'hopelessness', 'sense of responsibility']"
+P00688,Behavior,,"['emotion dysregulation', 'hopelessness']"
+P00689,Ideation,die; So yeah i guess I'm going to kill myself now,"['emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility', 'social support']"
+P00690,Ideation,,"['hopelessness', 'poor social support']"
+P00691,Indicator,,['emotion dysregulation']
+P00692,Behavior,I'm holding the knife,['suicide means (with access)']
+P00693,Ideation,Christian indoctrination makes me suicidal I'm trying to leave this religion,[]
+P00694,Behavior,,"['hopelessness', 'suicide means (with access)']"
+P00695,Ideation,,['hopelessness']
+P00696,Behavior,I have this urge to cut myself Haven’t cut myself in years; I have this urge to cut myself Haven’t cut myself in years but I’ve been misjudged all my life that I feel like I wanna do it.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P00697,Indicator,,"['hopelessness', 'interpersonal difficulty', 'poor social support']"
+P00698,Indicator,,"['emotion dysregulation', 'hopelessness', 'poor social support']"
+P00699,Ideation,bad; Cutting I want to do it; Cutting I want to do it so bad.,"['emotion dysregulation', 'suicide means (with access)']"
+P00700,Indicator,,[]
+P00701,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'prior self-harm or suicidal thought/attempt']"
+P00702,Indicator,,[]
+P00703,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility', 'suicide means (with access)']"
+P00724,Indicator,,['emotion dysregulation']
+P00725,Behavior,im planning to do it tomorrow,['suicide means (with access)']
+P00726,Indicator,,"['emotion dysregulation', 'poor school performance']"
+P00727,Behavior,one day i will have urge to finally kill myself,[]
+P00728,Ideation,die,"['emotion dysregulation', 'sense of responsibility']"
+P00729,Indicator,,['emotion dysregulation']
+P00730,Ideation,,[]
+P00731,Indicator,,[]
+P00742,Indicator,,[]
+P00743,Behavior,Slow Suicide really Sucks,[]
+P00744,Behavior,b) have not got cut off just yet,"['emotion dysregulation', 'low self-esteem', 'prior self-harm or suicidal thought/attempt']"
+P00745,Behavior,,['hopelessness']
+P00746,Indicator,,[]
+P00747,Behavior,Please God let me die in my sleep tonight,[]
+P00748,Indicator,,['hopelessness']
+P00779,Ideation,kill himself how dare he block me 10 times without no reason I fucking wish HE WILL DIE FUCK EVERYBODY IN THIS CRUEL EVIL WORLD IM GOING KILL MYSELF THIS ISNT FOR ATTENTION,"['emotion dysregulation', 'low socio-economic status', 'poor social support']"
+P00780,Ideation,,[]
+P00781,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support']"
+P00782,Ideation,,[]
+P00783,Ideation,everybody I'm pathetic I should die ages ago I hate myself I should self harm very deep,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P00784,Attempt,BEING ACCEPTED THIS WHOLE WORLD WAS AGAINST ME I STARTED SELF HARMING I ATTEMPT SUICIDE 56 TIMES TO ECSPACE THIS CRUEL EVIL WORLD I WONT BE PUSSY ANYMORE IM PUTTING MY FOOT DOWN I WILL END MY LIFE ALL TOGETHER TONIGHT I'M FED UP IM TRIED,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor social support', 'sense of responsibility', 'suicide means (with access)']"
+P00785,Ideation,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility']"
+P00786,Ideation,SUICIDAL,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility']"
+P00787,Ideation,SENDING ME DEATH THREATS IDK WHAT TO DO I JUST WANT SELF HARM VERY DEEP IM SCARED,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal violence', 'poor social support', 'sense of responsibility']"
+P00788,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support']"
+P00789,Indicator,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'psychological capital', 'sense of responsibility', 'sexual orientation related issues', 'social support', 'traumatic experience']"
+P00790,Indicator,,['suicide means (with access)']
+P00791,Ideation,im going sob myself to sleep  i hate my life i hope I don't wake up tomorrow I rather be dead,[]
+P00792,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support']"
+P00793,Ideation,end my life all together I deserve to die; end my life all together I will soon I'm done with this cruel evil world I'm done with fighting; self harm I wish I could don't be here I don't deserve to be alive it's will make everybody if I just end my life all together nothing will change my life never get better I still won't sleep,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support']"
+P00794,Ideation,,"['emotion dysregulation', 'low self-esteem', 'poor social support']"
+P00795,Ideation,my mental health I could die from suicide,"['emotion dysregulation', 'hopelessness', 'mental health issues', 'sense of responsibility', 'suicide means (with access)']"
+P00796,Indicator,,[]
+P00797,Behavior,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility', 'social support']"
+P00798,Attempt,"I have attempted suicide before; this time i wanna do it again cus i hate myself; I have attempted suicide before, and this time i wanna do it again cus i hate myself so much","['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P00799,Attempt,"i just wanna commit suicide again; Fucking hell, i just wanna commit suicide again.","['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P00800,Behavior,just commit suicide; Maybe i should just stop wasting my time and just commit suicide.,"['emotion dysregulation', 'hopelessness', 'low socio-economic status', 'mental health issues', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P00801,Ideation,"drown; I just wanna drown myself No one takes my suicidal thoughts seriously anyway; I just wanna drown myself No one takes my suicidal thoughts seriously anyway, so its best to just end my life.","['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P00802,Ideation,"I wanna die; I just wanna drown myself; I just wanna drown myself while on drugs, thats it.","['emotion dysregulation', 'hopelessness', 'poor social support', 'sense of responsibility']"
+P00803,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'sense of responsibility']"
+P00804,Ideation,,"['emotion dysregulation', 'hopelessness']"
+P00805,Ideation,,"['dysfunctional family', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility']"
+P00806,Behavior,,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'suicide means (with access)']"
+P00807,Behavior,"suicidal rn; I have attempted suicide before; i still wanna do it; I have attempted suicide before and i still wanna do it, but i cant because i dont want to worry my friends.","['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00808,Ideation,,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt']"
+P00809,Ideation,I wanna die.; I wanna end everything.; i dont want to live anymore,"['hopelessness', 'sense of responsibility']"
+P00885,Indicator,,[]
+P00886,Indicator,,"['emotion dysregulation', 'mental health issues']"
+P00887,Indicator,,"['hopelessness', 'suicide means (with access)']"
+P00888,Indicator,,['emotion dysregulation']
+P00889,Ideation,I WANNA KILL MYSELF I WANNA KILL MYSELF I WANNA KILL MYSELF I WANNA KILL MYSELF I WANNA KILL MYSELF I WANNA KILL MYSELF I WANNA KILL MYSELF,[]
+P00890,Indicator,,"['coping strategy', 'mental health issues']"
+P00891,Indicator,,"['coping strategy', 'poor social support']"
+P00892,Ideation,I just want to not exist,[]
+P00893,Ideation,,[]
+P00894,Indicator,,"['mental health issues', 'poor school performance']"
+P00895,Ideation,,"['coping strategy', 'dysfunctional family', 'poor social support']"
+P00913,Ideation,I’m a creep I should just die Im 21; it’s a curse I just want to end it,"['emotion dysregulation', 'low self-esteem', 'sense of responsibility']"
+P00914,Ideation,it’s bad; I have a bad attraction I deserve death I’m 21,"['emotion dysregulation', 'low self-esteem']"
+P00915,Ideation,it’s bad; I have a bad attraction I deserve death I’m 21,"['emotion dysregulation', 'low self-esteem']"
+P00916,Ideation,it’s bad; I have a bad attraction I deserve to die I’m 21,"['emotion dysregulation', 'low self-esteem']"
+P00917,Ideation,I want to just die I’m 21,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'sense of responsibility']"
+P00918,Ideation,it’s bad; I have a bad attraction I deserve death I’m 21,"['emotion dysregulation', 'low self-esteem']"
+P00919,Ideation,I’m a toonophile I wanna die I’m 21,"['hopelessness', 'low self-esteem', 'sense of responsibility']"
+P00920,Ideation,it’s eating me alive I just wanna die I’m; I just want to end everything I hate myself; I’m an ephebophile please kill me I’m a 21m I haven’t acted on it but I’m going to therapy soon but it’s eating me alive I just wanna die I’m so fucked up and I just want to end everything I hate myself,"['emotion dysregulation', 'low self-esteem', 'sense of responsibility']"
+P00921,Ideation,it’s eating me alive I just wanna die I’m; I just want to end everything I hate myself; I’m an ephebophile I deserve to die I’m a 21m I haven’t acted on it but I’m going to therapy soon but it’s eating me alive I just wanna die I’m so fucked up and I just want to end everything I hate myself,"['emotion dysregulation', 'low self-esteem']"
+P00948,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor school performance', 'poor social support']"
+P00949,Ideation,bad,['hopelessness']
+P00950,Attempt,fantasize about dying,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P00951,Attempt,get the courage to do something to end it,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event']"
+P00952,Indicator,,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'social support']"
+P00953,Behavior,fighting to get the strength to just kill myself already,"['coping strategy', 'emotion dysregulation', 'poor social support']"
+P00954,Behavior,i dont want to do it; i dont want to do it but it’s the only way for me and thats becoming clear.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'sense of responsibility', 'suicide means (with access)']"
+P00971,Behavior,,"['emotion dysregulation', 'suicide means (with access)']"
+P00972,Behavior,I have a full plan to kill myself,['suicide means (with access)']
+P00973,Indicator,,[]
+P00974,Indicator,,['emotion dysregulation']
+P00975,Indicator,,"['hopelessness', 'low self-esteem']"
+P00976,Indicator,,['hopelessness']
+P00977,Behavior,I need to kill myself to make it all stop,['poor social support']
+P00978,Indicator,,['emotion dysregulation']
+P00979,Behavior,,[]
+P00980,Behavior,Thinking about ending it tomorrow I’ll most likely hang myself.,['suicide means (with access)']
+P00981,Indicator,,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low socio-economic status', 'poor social support', 'sense of responsibility']"
+P00982,Indicator,,"['emotion dysregulation', 'hopelessness', 'low socio-economic status', 'poor social support', 'sense of responsibility']"
+P00983,Behavior,Thinking about killing myself tonight as well.,"['emotion dysregulation', 'poor school performance', 'suicide means (with access)']"
+P00984,Behavior,Thinking about killing myself tonight as well.,"['emotion dysregulation', 'poor school performance', 'suicide means (with access)']"
+P00985,Ideation,Lonely Gonna die soon,[]
+P00986,Ideation,I’m too lazy to kill myself lmao I’ve made the decision to do it,"['prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P00987,Behavior,Probably gonna hang myself.; Tonight might be it Kinda wanna hang out with someone before I go.,['suicide means (with access)']
+P01159,Indicator,,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'social support']"
+P01160,Ideation,not myself; I could just do it already; I wish no one would notice if I disappeared so I could just do it already.,"['cognitive deficits', 'coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'suicide means (with access)']"
+P01161,Ideation,"I want to be dead; hopefully I will be dead soon; I wish I could be dead.; I hope I die soon I said it; I hope I die soon I said it, I want to be dead, hopefully I will be dead soon, I would like that.",['low self-esteem']
+P01162,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility', 'social support']"
+P01163,Behavior,What's a good way to do it?,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility', 'suicide means (with access)']"
+P01164,Behavior,I want to die; I want to die so badly I'm not living for myself.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility', 'suicide means (with access)']"
+P01165,Indicator,,[]
+P01166,Ideation,,"['emotion dysregulation', 'hopelessness', 'poor social support', 'sense of responsibility']"
+P01182,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P01183,Indicator,,"['emotion dysregulation', 'low self-esteem']"
+P01184,Ideation,,"['emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor social support']"
+P01185,Behavior,,"['hopelessness', 'low self-esteem', 'low socio-economic status', 'poor social support', 'suicide means (with access)']"
+P01186,Behavior,,['emotion dysregulation']
+P01187,Indicator,,['emotion dysregulation']
+P01188,Indicator,,['suicide means (with access)']
+P01189,Ideation,,['hopelessness']
+P01190,Behavior,Waiting to end it is like waiting in purgatory My goodness monthly countdown,[]
+P01191,Indicator,,"['hopelessness', 'low self-esteem', 'poor social support']"
+P01192,Ideation,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'sense of responsibility', 'suicide means (with access)']"
+P01193,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P01194,Ideation,Suicide note I just want to sleep forever my life sucks!,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'psychological capital', 'sense of responsibility']"
+P01195,Ideation,Suicide over rejection from my crush?; I want to die not only,"['hopelessness', 'sense of responsibility']"
+P01196,Ideation,im going to die on april 25.; people want me to kill myself i wrote the note.,"['interpersonal violence', 'poor social support']"
+P01197,Behavior,,"['sense of responsibility', 'suicide means (with access)']"
+P01198,Ideation,im going to die soon,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'low socio-economic status', 'poor social support', 'sense of responsibility']"
+P01199,Indicator,,"['emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01200,Indicator,,['emotion dysregulation']
+P01201,Ideation,,"['low self-esteem', 'poor social support']"
+P01202,Attempt,attempting tonight hope it works.,['suicide means (with access)']
+P01203,Ideation,told me to kill myself lol,['dysfunctional family']
+P01204,Attempt,when i die; i wrote out a note that explained my feelings; i need help i am going to kill myself on april 25.,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'meaning in life', 'mental health issues', 'physical health/characteristic', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'traumatic experience']"
+P01205,Behavior,goodbye,[]
+P01206,Ideation,"shooting myself; I WANT TO DIE; i want to reply; I WANT TO DIE SO FUCKING BAD.; i am buying a gun on the spot; if i chicken out, i am buying a gun on the spot and shooting myself.","['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01207,Ideation,i dont want to do it anymore,"['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support', 'sense of responsibility', 'social support']"
+P01208,Ideation,,['suicide means (with access)']
+P01209,Behavior,i want to sabotage myself; i can drown myself in a peaceful place; im not sure i want to kill myself; im not sure i want to kill myself because it would hurt my younger siblings.; having doubts about ending it but i dont want to lose the possibility i bought a plane ticket to a beach so i can drown myself in a peaceful place.,"['emotion dysregulation', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01210,Ideation,,['hopelessness']
+P01211,Indicator,,['hopelessness']
+P01212,Indicator,,['coping strategy']
+P01213,Attempt,,"['emotion dysregulation', 'poor social support']"
+P01214,Indicator,,[]
+P01215,Behavior,"all i think about is suicide; i think i am going to kill myself before then; i think i am going to kill myself before then, on the 14th of may","['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P01216,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P01217,Indicator,,"['emotion dysregulation', 'sense of responsibility']"
+P01218,Indicator,,[]
+P01219,Attempt,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility']"
+P01246,Behavior,"I got my pills; Whelp, I got my pills.",['suicide means (with access)']
+P01247,Attempt,I've got about 50 extra strength Tylenol and am just waiting for the perfect time to take them.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01248,Behavior,So now I bide my time,"['emotion dysregulation', 'low self-esteem', 'sense of responsibility', 'suicide means (with access)']"
+P01249,Ideation,I know I'm going to kill myself,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'sense of responsibility']"
+P01250,Ideation,"I've just written my note I don't intend to kill myself just yet; I've just written my note I don't intend to kill myself just yet, as I don't quite have the means but luck favors the prepared, right?","['hopelessness', 'suicide means (with access)']"
+P01251,Indicator,,[]
+P01252,Behavior,Would over 10 grams of Tylenol be lethal?,['suicide means (with access)']
+P01253,Behavior,Goodbye; my note written; I am going to take my life,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'stressful life event', 'suicide means (with access)']"
+P01291,Ideation,One day I just might kill myself.; How do I talk myself out of suicide this time?; My mother has made me want to kill myself on several occasions.,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01292,Behavior,I want to kill myself; I want to kill myself and I don't know how to stop these thoughts?,"['hopelessness', 'suicide means (with access)']"
+P01293,Ideation,I want to kill myself.; now I just want to kill myself; This is definitely not the first time I've wanted to take my own life.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01294,Behavior,"how do I prevent myself from committing suicide today; So, how do I prevent myself from committing suicide today?","['emotion dysregulation', 'hopelessness', 'low self-esteem', 'sense of responsibility', 'suicide means (with access)']"
+P01295,Behavior,My mother makes me want to kill myself.; So how do I prevent myself from committing suicide today?,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'suicide means (with access)']"
+P01296,Ideation,suicidal,['emotion dysregulation']
+P01297,Behavior,I want to kill myself.; I still want to kill myself,"['coping strategy', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'meaning in life', 'mental health issues', 'physical health/characteristic', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P01351,Indicator,,"['coping strategy', 'poor social support']"
+P01352,Indicator,,"['coping strategy', 'poor social support']"
+P01353,Indicator,,"['coping strategy', 'poor social support']"
+P01354,Indicator,,"['coping strategy', 'poor social support']"
+P01355,Behavior,cutting myself someone stop me,[]
+P01356,Indicator,,"['coping strategy', 'poor social support']"
+P01357,Indicator,,"['coping strategy', 'poor social support']"
+P01358,Indicator,,"['coping strategy', 'poor social support']"
+P01359,Indicator,,['poor social support']
+P01426,Ideation,,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P01427,Indicator,,[]
+P01428,Indicator,,['poor social support']
+P01429,Indicator,,['poor social support']
+P01430,Indicator,,"['low self-esteem', 'poor social support', 'social support']"
+P01431,Indicator,,[]
+P01432,Indicator,,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty']"
+P01456,Indicator,,"['interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P01457,Indicator,,[]
+P01458,Indicator,,[]
+P01459,Indicator,,[]
+P01460,Indicator,,['hopelessness']
+P01461,Indicator,,[]
+P01462,Indicator,,['poor social support']
+P01524,Behavior,,"['emotion dysregulation', 'hopelessness', 'suicide means (with access)']"
+P01525,Ideation,I want to kill myself less I don’t wanna die I really don’t; I want to kill myself less I don’t wanna die I really don’t but I have no motivation to live as well.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P01526,Attempt,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P01527,Behavior,,['suicide means (with access)']
+P01528,Behavior,I’m dead; easy to die with pills,"['emotion dysregulation', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01529,Behavior,,['suicide means (with access)']
+P01530,Indicator,,"['coping strategy', 'emotion dysregulation', 'poor social support']"
+P01674,Behavior,I can't do it myself,"['coping strategy', 'dysfunctional family', 'hopelessness', 'low self-esteem', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P01675,Behavior,,"['coping strategy', 'dysfunctional family', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support']"
+P01676,Indicator,,"['coping strategy', 'emotion dysregulation', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility', 'social support']"
+P01677,Indicator,,"['hopelessness', 'suicide means (with access)']"
+P01678,Indicator,,"['coping strategy', 'poor social support']"
+P01679,Indicator,,"['emotion dysregulation', 'poor social support', 'social support']"
+P01680,Behavior,I found out I could kill myself with caffeine (just drinking a small percent,"['physical health/characteristic', 'suicide means (with access)']"
+P01758,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'physical health/characteristic', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility']"
+P01759,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P01760,Ideation,I probably would lose the desire to kill myself,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'physical health/characteristic', 'sense of responsibility', 'suicide means (with access)']"
+P01761,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'sense of responsibility']"
+P01762,Indicator,,"['emotion dysregulation', 'hopelessness', 'low socio-economic status', 'poor social support']"
+P01763,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility']"
+P01764,Behavior,,['hopelessness']
+P01921,Attempt,Recently I started thinking about suicide (I almost killed myself last November,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'physical health/characteristic', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'sexual orientation related issues', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P01922,Indicator,,[]
+P01923,Ideation,I just wanna fall asleep; I just wanna fall asleep I only don't think about killing myself; I just wanna fall asleep I only don't think about killing myself when I am asleep.,"['emotion dysregulation', 'hopelessness']"
+P01924,Behavior,hurt; I kill myself; I am going to kill myself,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P01925,Indicator,,[]
+P01926,Indicator,,[]
+P01927,Behavior,,"['hopelessness', 'prior self-harm or suicidal thought/attempt', 'suicide means (with access)']"
+P01928,Behavior,I am going to write my goodbye letter today.,[]
+P01997,Behavior,,"['emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'low self-esteem', 'mental health issues', 'physical health/characteristic', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P01998,Indicator,,['emotion dysregulation']
+P01999,Behavior,brilliant idea all suicidal ppl should have the option to oof themselves just by clicking on a button.,['suicide means (with access)']
+P02000,Indicator,,[]
+P02001,Indicator,,['hopelessness']
+P02002,Behavior,,[]
+P02003,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P02004,Ideation,,[]
+P02005,Indicator,,"['low self-esteem', 'poor social support']"
+P02006,Indicator,,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event']"
+P02007,Indicator,,[]
+P02008,Indicator,,"['emotion dysregulation', 'poor social support']"
+P02009,Indicator,,[]
+P02010,Behavior,today i have a feeling that today will be the day,[]
+P02011,Indicator,,['emotion dysregulation']
+P02023,Behavior,,[]
+P02024,Behavior,Plz someone respond to this before I kill myself plzzz,[]
+P02025,Behavior,,[]
+P02026,Ideation,,"['coping strategy', 'poor social support']"
+P02027,Behavior,What’s your ideal way of suicide; What’s your ideal way of suicide ?,['suicide means (with access)']
+P02028,Indicator,,"['emotion dysregulation', 'hopelessness']"
+P02029,Behavior,I’m done I’m gonna kill myself,"['emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P02030,Behavior,I just might end it tonight.; I just wanna shoot myself in the head.,"['emotion dysregulation', 'suicide means (with access)']"
+P02031,Attempt,"I took a multivitamin pill; I just might end it right now I’m a big hypochondriac; I just might end it right now I’m a big hypochondriac and I took a multivitamin pill but it’s hard for me to swallow pills so I crushed it , i only ended up eating half","['emotion dysregulation', 'hopelessness', 'sense of responsibility', 'suicide means (with access)']"
+P02032,Ideation,over please I just wanna kill myself out of fear; I’m having a bad panic attack 18 and over please I just wanna kill myself out of fear,['coping strategy']
+P02033,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02034,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02035,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02036,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02037,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02038,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02039,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02040,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02041,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02042,Ideation,I attempted suicide b4; I attempted suicide b4 but i have reason to live now.,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'poor school performance', 'poor social support', 'sense of responsibility']"
+P02057,Ideation,HELP ¿It's a good idea to leave a suicide note to a person that you know it will hurt; HELP ¿It's a good idea to leave a suicide note to a person that you know it will hurt but what is something you want to do before you die?,['social support']
+P02058,Behavior,I am afraid that my suicide plan will not work,"['emotion dysregulation', 'sense of responsibility']"
+P02059,Ideation,:( I just want that my plan works.,"['hopelessness', 'low self-esteem', 'sense of responsibility', 'suicide means (with access)']"
+P02060,Indicator,,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support', 'psychological capital', 'sense of responsibility', 'social support']"
+P02061,Indicator,,"['coping strategy', 'emotion dysregulation', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support', 'suicide means (with access)']"
+P02062,Ideation,,"['hopelessness', 'poor social support']"
+P02063,Behavior,It's possible to die by a painkillers overdose; It's possible to die by a painkillers overdose ?,['suicide means (with access)']
+P02064,Behavior,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P02104,Indicator,,['hopelessness']
+P02105,Indicator,,[]
+P02106,Indicator,,['coping strategy']
+P02107,Indicator,,['hopelessness']
+P02108,Indicator,,"['emotion dysregulation', 'hopelessness']"
+P02109,Ideation,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P02110,Behavior,,"['emotion dysregulation', 'hopelessness']"
+P02111,Indicator,,['hopelessness']
+P02112,Indicator,,"['emotion dysregulation', 'hopelessness', 'low self-esteem']"
+P02113,Indicator,,[]
+P02125,Ideation,I'm about to commit suicide,['suicide means (with access)']
+P02126,Indicator,,"['coping strategy', 'poor social support']"
+P02127,Indicator,,"['coping strategy', 'poor social support']"
+P02128,Indicator,,"['coping strategy', 'poor social support']"
+P02129,Indicator,,"['coping strategy', 'poor social support']"
+P02130,Indicator,,"['low self-esteem', 'poor social support']"
+P02131,Indicator,,['poor social support']
+P02132,Ideation,Suicide is the only way out,['hopelessness']
+P02133,Indicator,,"['coping strategy', 'poor social support']"
+P02134,Indicator,,['coping strategy']
+P02135,Indicator,,"['coping strategy', 'poor social support']"
+P02136,Ideation,I should have went.,"['hopelessness', 'sense of responsibility']"
+P02137,Ideation,,['hopelessness']
+P02138,Ideation,,"['hopelessness', 'low socio-economic status']"
+P02139,Indicator,,"['coping strategy', 'poor social support']"
+P02140,Indicator,,"['coping strategy', 'poor social support']"
+P02141,Indicator,,['poor social support']
+P02142,Ideation,,"['dysfunctional family', 'emotion dysregulation', 'physical health/characteristic', 'sense of responsibility']"
+P02143,Indicator,,['hopelessness']
+P02144,Indicator,,"['coping strategy', 'poor social support']"
+P02145,Indicator,,"['coping strategy', 'poor social support']"
+P02199,Ideation,of how death works,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'mental health issues', 'poor social support', 'psychological capital', 'social support']"
+P02200,Behavior,do it one of these days; I’m hoping I just grab the gun; I’m starting to just not see suicide as a problem anymore at this point.; I’m hoping I just grab the gun and do it one of these days.,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility', 'social support', 'suicide means (with access)']"
+P02201,Ideation,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'poor social support']"
+P02202,Behavior,I want to plan my death; I want to plan my death and act on it asap.,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'sense of responsibility', 'suicide means (with access)']"
+P02203,Behavior,,"['hopelessness', 'suicide means (with access)']"
+P02204,Indicator,,[]
+P02205,Indicator,,[]
+P02206,Behavior,Will this gun work?,"['emotion dysregulation', 'sense of responsibility', 'suicide means (with access)']"
+P02207,Behavior,Will this gun work?,"['emotion dysregulation', 'sense of responsibility', 'suicide means (with access)']"
+P02208,Indicator,,[]
+P02209,Behavior,I’ve been thinking about killing myself,"['emotion dysregulation', 'hopelessness', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'suicide means (with access)']"
+P02218,Ideation,I will kill myself; This will be the end,"['dysfunctional family', 'hopelessness', 'low self-esteem', 'low socio-economic status']"
+P02219,Indicator,,[]
+P02220,Ideation,I'm in 10th grade now I will kill myself in a few weeks,"['emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'poor social support']"
+P02221,Ideation,,[]
+P02222,Ideation,will kill myself,"['emotion dysregulation', 'hopelessness']"
+P02223,Indicator,,"['coping strategy', 'poor social support']"
+P02224,Ideation,thinking about suicide I have a panic attack right now; I am crying almost 24/7 and thinking about suicide I have a panic attack right now,[]
+P02225,Behavior,I don’t want to hang myself,['suicide means (with access)']
+P02226,Ideation,I will kill myself; Suicide Hotline is not available right now It's 1 a.m.,"['coping strategy', 'poor social support']"
+P02227,Ideation,decided that soon I will end my life,"['hopelessness', 'low self-esteem', 'poor social support']"
+P02228,Ideation,- 11 p.m.; want to go kill myself I want to try to self-harm too,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'physical health/characteristic', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'stressful life event', 'traumatic experience']"
+P02229,Ideation,I decided to end my life,"['dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'sense of responsibility', 'traumatic experience']"
+P02230,Ideation,,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'poor school performance', 'poor social support', 'sense of responsibility', 'traumatic experience']"
+P02303,Indicator,,[]
+P02304,Indicator,,[]
+P02305,Ideation,I want to die,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support', 'suicide means (with access)']"
+P02306,Ideation,suicidal; then killing myself,"['dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'poor social support']"
+P02307,Ideation,suicidal; then killing myself,"['dysfunctional family', 'emotion dysregulation', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'poor social support']"
+P02308,Behavior,think about hurting myself; I think about killing myself; I think about killing myself when people criticize me and I think about killing myself because people treat me differently I get really angry and think about hurting myself,['poor social support']
+P02309,Indicator,,[]
+P02358,Behavior,I have completed my suicide notes.; I planned 2 months ago that I would kill myself; it's about to reach in a few days I guess then I have made up my mind to do it.,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor school performance', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P02359,Ideation,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P02360,Ideation,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P02361,Ideation,,"['emotion dysregulation', 'hopelessness', 'low self-esteem', 'poor social support']"
+P02362,Indicator,,['poor social support']
+P02363,Indicator,,['poor social support']
+P02364,Behavior,I would like to post my suicide note on all the social apps that I have to announce that I am going to die,"['coping strategy', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P02365,Indicator,,[]
+P02366,Ideation,,"['dysfunctional family', 'emotion dysregulation', 'hopelessness', 'low self-esteem', 'mental health issues', 'poor school performance', 'poor social support']"
+P02375,Ideation,,[]
+P02376,Behavior,far; How not to kill myself?; I'm giving myself a month before I kill myself.,['hopelessness']
+P02377,Ideation,,"['emotion dysregulation', 'poor social support']"
+P02378,Ideation,PLEASE HELP I'M GOING TO END MY LIFE,['hopelessness']
+P02379,Ideation,I failed to kill myself last night,[]
+P02380,Ideation,Suicidal thoughts.; kill myself; I'm not advocating for suicide; I'm giving myself a month more before I finally kill myself.; The only way I can live is by forcing myself to find happiness and love in myself or kill myself.,"['coping strategy', 'dysfunctional family', 'emotion dysregulation', 'hopelessness', 'interpersonal difficulty', 'low self-esteem', 'low socio-economic status', 'mental health issues', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'social support', 'stressful life event', 'suicide means (with access)']"
+P02381,Indicator,,"['coping strategy', 'poor social support']"
+P02382,Indicator,,[]
+P02413,Indicator,,"['coping strategy', 'poor social support']"
+P02414,Attempt,counting; it sentimentally distanced me from her,"['cognitive deficits', 'coping strategy', 'dysfunctional family', 'emotion dysregulation', ""exposure to others' suicide"", 'hopelessness', 'interpersonal difficulty', 'interpersonal violence', 'low self-esteem', 'low socio-economic status', 'meaning in life', 'mental health issues', 'physical health/characteristic', 'poor social support', 'prior self-harm or suicidal thought/attempt', 'psychological capital', 'sense of responsibility', 'sexual orientation related issues', 'social support', 'stressful life event', 'suicide means (with access)', 'traumatic experience']"
+P02415,Behavior,OD on paracetamol what is it like to overdose on paracetamol?,['suicide means (with access)']
+P02416,Indicator,,[]
+P02417,Indicator,,['coping strategy']
+P02418,Indicator,,[]
+P02419,Indicator,,"['coping strategy', 'poor social support']"
+P02420,Indicator,,"['coping strategy', 'poor social support']"
